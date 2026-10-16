@@ -1,5 +1,5 @@
 {
-	"appId": "com.geobank.app",
-	"appName": "capacitor",
+	"appId": "com.jeivizw.geobank",
+	"appName": "geobank",
 	"webDir": "dist"
 }
